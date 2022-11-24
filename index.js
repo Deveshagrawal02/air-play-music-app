@@ -25,27 +25,27 @@ let track = document.createElement("audio");
 let All_song = [
   {
     name: "Peaches 🔥",
-    path: "peaches.mp3",
-    img: "peaches.jpeg",
+    path: "/peaches.mp3",
+    img: "/peaches.jpeg",
     singer: "Justin Bieber ✨",
   },
   {
     name: "Better 🔥",
-    path: "Khalid.mp3",
-    img: "better.jpeg",
+    path: "/Khalid.mp3",
+    img: "/better.jpeg",
     singer: "Khalid ✨",
   },
   {
     name: "Holly 🔥",
-    path: "Holly.mp3",
-    img: "holly.jpeg",
+    path: "/Holly.mp3",
+    img: "/holly.jpeg",
     singer: "Justin Bieber ✨",
   },
 
    {
     name: "Bad liar  🔥",
-    path: "badliar.mp3",
-    img: "badliar.jpeg",
+    path: "/badliar.mp3",
+    img: "/badliar.jpeg",
     singer: "Selena Gomez ✨",
   },
   
