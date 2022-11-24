@@ -25,65 +25,30 @@ let track = document.createElement("audio");
 let All_song = [
   {
     name: "Peaches 🔥",
-    path: "/music/sounds/peaches.mp3",
-    img: "/music/images/peaches.jpeg",
+    path: "peaches.mp3",
+    img: "peaches.jpeg",
     singer: "Justin Bieber ✨",
   },
   {
     name: "Better 🔥",
-    path: "/music/sounds/Khalid.mp3",
-    img: "/music/images/better.jpeg",
+    path: "Khalid.mp3",
+    img: "better.jpeg",
     singer: "Khalid ✨",
   },
   {
     name: "Holly 🔥",
-    path: "/music/sounds/Holly.mp3",
-    img: "/music/images/holly.jpeg",
+    path: "Holly.mp3",
+    img: "holly.jpeg",
     singer: "Justin Bieber ✨",
   },
-//   {
-//     name: "Intentions 🔥",
-//     path: "sound/intent.mp3",
-//     img: "images/inten.jpg",
-//     singer: "Justin Bieber ✨",
-//   },
-//   {
-//     name: "Positions 🔥",
-//     path: "sound/position.mp3",
-//     img: "images/position.jpeg",
-//     singer: "Ariana grande ✨",
-//   },
-//   {
-//     name: "Tune Kaha  🔥",
-//     path: "sound/tunekaha.mp3",
-//     img: "images/tunekaha.jpg",
-//     singer: "Prateek kuhad ✨",
-//   },
+
    {
     name: "Bad liar  🔥",
-    path: "/music/sounds/badliar.mp3",
-    img: "/music/images/badliar.jpeg",
+    path: "badliar.mp3",
+    img: "badliar.jpeg",
     singer: "Selena Gomez ✨",
   },
-//   {
-//     name: "Sick Boy  🔥",
-//     path: "sound/sickboy.mp3",
-//     img: "images/sickboy.jpg",
-//     singer: "Chainsmokers 🎊",
-//   },
-//   {
-//     name: "Brown Munde 🔥",
-//     path: "sound/brownmunde.mp3",
-//     img: "images/bronmunde.jpeg",
-//     singer: "AP Dhillon ✨",
-//   },
-//   {
-//     name: "When you say ☽",
-//     path: "sound/whenu.mp3",
-//     img: "images/whenu.jpeg",
-//     singer: "Ronan Keating ✨",
-//   }
-];
+  
 
 // functions for loading track
 function load_track(index_no) {
